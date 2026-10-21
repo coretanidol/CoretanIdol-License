@@ -35,7 +35,7 @@
 
 ### PREAMBLE / PEMBUKAAN
 
-Lisensi ini mengatur seluruh konten original yang dipublikasikan di channel YouTube **CoretanIdol** (https://www.youtube.com/@coretanidol).
+Lisensi ini mengatur seluruh konten original yang dipublikasikan di channel YouTube **CoretanIdol** (https://www.youtube.com/@CoretanIdol).
 
 Dengan mengakses, menonton, atau berinteraksi dengan konten kami, Anda dianggap telah membaca, memahami, dan menyetujui seluruh ketentuan dalam lisensi ini.
 
@@ -169,7 +169,7 @@ Izin hanya sah jika dibalas langsung dari email `coretanidolreport@gmail.com` de
 > Hanya email di bawah ini yang dianggap resmi. Email lain yang mengatasnamakan CoretanIdol di luar email ini adalah tidak sah.
 
 **Business, License & Takedown Report: coretanidolreport@gmail.com**
-**YouTube: https://www.youtube.com/@coretanidol**
+**YouTube: https://www.youtube.com/@CoretanIdol**
 **License Repository: https://github.com/coretanidol/CoretanIdol-License**
 
 ---
