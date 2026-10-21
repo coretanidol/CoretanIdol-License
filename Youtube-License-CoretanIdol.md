@@ -1,5 +1,5 @@
 # YOUTUBE CONTENT LICENSE - ALL RIGHTS RESERVED
-### CoretanIdol Official License v2.0
+### CoretanIdol Official License Youtube
 
 <p align="center">
   <img src="https://img.shields.io/badge/Copyright-%C2%A9%202026%20CoretanIdol-red?style=for-the-badge" alt="Copyright">
