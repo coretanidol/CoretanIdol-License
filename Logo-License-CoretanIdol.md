@@ -80,7 +80,7 @@ Berdasarkan file asli yang kamu kirim, ini breakdown detail logo:
 
 1.  Logo Circular Badge "Coretan Idol INI SOAL 48 Family Since 2016 Comeback 2026" adalah **MEREK DAGANG & CIPTAAN ORIGINAL** milik CoretanIdol.
 2.  Dilindungi UU Merek No. 20 Tahun 2016 & UU Hak Cipta No. 28 Tahun 2014.
-3.  Desain ini pertama kali dipublikasikan di Pinterest https://pin.it/6hJBuFAEF dan file asli `IMG-20261021-WA1414.jpg` dengan timestamp GitHub sebagai bukti.
+3.  Desain ini pertama kali dipublikasikan di Pinterest https://pin.it/6hJBuFAEF dan file asli `Logo-CoretanIdol.jpg` dengan timestamp GitHub sebagai bukti.
 4.  Elemen "48 Family" merujuk pada komunitas, namun desain logo secara keseluruhan adalah milik CoretanIdol.
 
 ---
