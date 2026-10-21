@@ -129,7 +129,7 @@ Untuk keperluan komersial, kolaborasi, lisensi media, atau penggunaan di luar ya
 </p>
 
 Format Subjek: `[LICENSE REQUEST] - Jenis Penggunaan - Nama Anda`
-Contoh: `[LICENSE REQUEST] - Kompilasi TikTok - Budi Hartono`
+Contoh: `[LICENSE REQUEST] - Kompilasi TikTok - CoretanIdol`
 
 Wajib sertakan:
 - Link video CoretanIdol yang ingin digunakan
